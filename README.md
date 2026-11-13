@@ -185,7 +185,7 @@ Ensure you have Docker and Docker Compose installed:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Vanshikabishnoi/karma-sutra.git
+git clone https://github.com/VanshikaB16/karma-sutra.git
 cd karma-sutra
 
 # 2. Configure environment variables (optional for local mode)
@@ -279,7 +279,7 @@ Access the application in your browser:
 * **Author:** Vanshika Bishnoi
 * **Academic Course:** Object-Oriented Programming Systems (OOPS) & Advanced Data Structures (ADS)
 * **Evaluation Focus:** Polymorphic Factory Design, Strategic Multi-Provider AI Fallback, Relational Integrity, 3D WebGL Visualization.
-* **GitHub Repository:** [https://github.com/Vanshikabishnoi/karma-sutra](https://github.com/Vanshikabishnoi/karma-sutra)
+* **GitHub Repository:** [https://github.com/VanshikaB16/karma-sutra](https://github.com/VanshikaB16/karma-sutra)
 
 ---
 
