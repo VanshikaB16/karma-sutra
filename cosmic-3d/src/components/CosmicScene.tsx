@@ -134,9 +134,10 @@ export const CosmicScene: React.FC<CosmicSceneProps> = ({
 
     // Helper: Texture loader that progressively enhances procedural textures with high-res NASA photography
     const textureLoader = new THREE.TextureLoader();
+    const resolveTextureUrl = (path: string) => path.startsWith('/') ? '.' + path : path;
     const loadProgressiveTexture = (url: string, proceduralFallback: THREE.CanvasTexture, onLoaded?: (tex: THREE.Texture) => void): THREE.Texture => {
       textureLoader.load(
-        url,
+        resolveTextureUrl(url),
         (loadedTex) => {
           loadedTex.colorSpace = THREE.SRGBColorSpace;
           loadedTex.wrapS = THREE.RepeatWrapping;
@@ -236,7 +237,7 @@ export const CosmicScene: React.FC<CosmicSceneProps> = ({
 
         // Add Mars topographical bump mapping if available
         if (body.id === 'mars') {
-          textureLoader.load('/textures/mars-bump.jpg', (bumpTex) => {
+          textureLoader.load(resolveTextureUrl('/textures/mars-bump.jpg'), (bumpTex) => {
             bumpTex.wrapS = THREE.RepeatWrapping;
             bumpTex.wrapT = THREE.ClampToEdgeWrapping;
             stdMat.bumpMap = bumpTex;
