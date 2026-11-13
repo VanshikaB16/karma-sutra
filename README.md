@@ -3,6 +3,9 @@
 > *"Every action has a consequence. Every grievance deserves an answer."*  
 > *"The universe has a ticketing system."*
 
+[![Permanent Live Website](https://img.shields.io/badge/🌐%20Permanent%20Live%20Website-Visit%20KARMA%20SUTRA™-00f5d4?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vanshikab16.github.io/karma-sutra/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active%20%26%20Live-10b981?style=for-the-badge&logo=github)](https://vanshikab16.github.io/karma-sutra/)
+
 [![Java 21](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://www.oracle.com/java/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.169.0-black.svg)](https://threejs.org/)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://react.dev/)
@@ -10,6 +13,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8.svg)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ed.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
+### 🌐 Permanent Live Web Deployment
+> **Access the live permanent web product anytime from any device or browser without running localhost:**  
+> 🔗 **[https://vanshikab16.github.io/karma-sutra/](https://vanshikab16.github.io/karma-sutra/)**
 
 ---
 
