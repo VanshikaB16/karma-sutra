@@ -103,7 +103,9 @@ export interface DevoteeSoulRecord {
   createdAt: string;
 }
 
-const BRIDGE_API_BASE = 'http://127.0.0.1:8108/api';
+const BRIDGE_API_BASE = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? 'http://127.0.0.1:8108/api'
+  : '/api';
 
 class CosmicApiBridge {
   private isConnected = false;
