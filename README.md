@@ -5,6 +5,7 @@
 
 [![Permanent Live Website](https://img.shields.io/badge/🌐%20Permanent%20Live%20Website-Visit%20KARMA%20SUTRA™-00f5d4?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vanshikab16.github.io/karma-sutra/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active%20%26%20Live-10b981?style=for-the-badge&logo=github)](https://vanshikab16.github.io/karma-sutra/)
+[![Final ADS Report](https://img.shields.io/badge/📄%20Final%20Report-PDF%20Document-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Final%20Report.pdf)
 
 [![Java 21](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://www.oracle.com/java/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.169.0-black.svg)](https://threejs.org/)
@@ -16,9 +17,12 @@
 
 ---
 
-### 🌐 Permanent Live Web Deployment
+### 🌐 Permanent Live Web Deployment & Documentation
 > **Access the live permanent web product anytime from any device or browser without running localhost:**  
-> 🔗 **[https://vanshikab16.github.io/karma-sutra/](https://vanshikab16.github.io/karma-sutra/)**
+> 🔗 **[https://vanshikab16.github.io/karma-sutra/](https://vanshikab16.github.io/karma-sutra/)**  
+>  
+> **Official ADS Final Project Report:**  
+> 📄 **[Final Report.pdf (Open on GitHub)](./Final%20Report.pdf)** | **[Direct Download](https://raw.githubusercontent.com/VanshikaB16/karma-sutra/main/Final%20Report.pdf)**
 
 ---
 
