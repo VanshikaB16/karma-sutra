@@ -29,6 +29,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
   React.useEffect(() => {
     if (initialMode) {
       setMode(initialMode);
+      setErrorMessage(null);
       if (initialMode === 'register') {
         setIdentifier('');
         setPassword('');
